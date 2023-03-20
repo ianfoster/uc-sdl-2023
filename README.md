@@ -1,5 +1,7 @@
 # CMSC 35360-1: Autonomous Laboratories
 
+![Illustrative image from https://doi.org/10.1016/j.trechm.2019.02.007](images/gr3.jpg)
+
 This graduate-level course focuses on the principles and applications of self-driving, or autonomous, scientific laboratories, combining cutting-edge technology with the potential for significant advancements in scientific research. By the end of the class, you should: understand the concepts and history of autonomous laboratories; be able to apply AI and ML techniques in laboratory settings; and design and optimize experiments in autonomous laboratories.
 
 ### Class information
@@ -32,5 +34,6 @@ We use [https://github.com/ianfoster/uc-sdl-2023](https://github.com/ianfoster/u
 14. May 11: TBD
 15. May 16: TBD
 16. May 18: TBD
-
+17. May 23: TBD
+18. May 25: TBD
 

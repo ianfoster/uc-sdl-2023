@@ -18,5 +18,3 @@ We use [https://github.com/ianfoster/uc-sdl-2023](https://github.com/ianfoster/u
 
 * [Class syllabus, lectures, etc.](classes/README.md)
 * [Assignments](assignments/README.md)
-
-

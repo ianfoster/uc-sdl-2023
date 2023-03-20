@@ -14,7 +14,7 @@ see the following figure from [light-mixing SDL-Demo](https://github.com/sparks-
 ![Image](../images/lightdemo.png)
 
 In this first assignment, you will run experiments on the color-mixing SDL-Demo hardware located at the University of Utah.
-[This Jupyter notebook]https://github.com/sparks-baird/self-driving-lab-demo/blob/main/notebooks/4.2-paho-mqtt-colab-sdl-demo-test.ipynb) shows how this is done, and also provides implementations of grid search, random search, and Bayesian optimization for a color mixing task.
+[This Jupyter notebook](https://github.com/sparks-baird/self-driving-lab-demo/blob/main/notebooks/4.2-paho-mqtt-colab-sdl-demo-test.ipynb) shows how this is done, and also provides implementations of grid search, random search, and Bayesian optimization for a color mixing task.
 
 ### Your task
 

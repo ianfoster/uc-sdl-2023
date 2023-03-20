@@ -3,7 +3,9 @@
 This list of topics to be covered will evolve during the quarter.
 
 1. **March 21**
-* Introduction to SDLs and the class*
+* What is an automonomous laboratory (AL), and why should we want one?
+* What do we need to know to design, build, and apply ALs?
+* How is this class organized?
 3. March 23
 * 
 5. March 28

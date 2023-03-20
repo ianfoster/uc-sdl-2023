@@ -19,10 +19,10 @@ This list of topics to be covered will evolve during the quarter.
 13. April 25
 14. April 27
 15. May 2
-16. May 4
+16. May 4 
 17. May 9
 18. May 11
-19. May 16
+19. May 16 (Ian@InfoComm)
 20. May 18
 21. May 23
 22. May 25

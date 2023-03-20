@@ -14,26 +14,9 @@ The class Slack channel is #auto-labs-2023 on the UChicago CS Slack. We strongly
 
 We use [https://github.com/ianfoster/uc-sdl-2023](https://github.com/ianfoster/uc-sdl-2023) to share information about the class.
 
-### Class syllabus, lectures, etc.
+### See also:
 
-1. March 21: Introduction to SDLs and the class.
-1. March 23: xxx
-1. March 28: TBD
-2. March 30: TBD
-3. April 4: TBD
-4. April 6: TBD
-5. April 11: TBD
-6. April 13: TBD
-7. April 18: TBD
-8. April 20: TBD
-9. April 25: TBD
-10. April 27: TBD
-11. May 2: TBD
-12. May 4: TBD
-13. May 9: TBD
-14. May 11: TBD
-15. May 16: TBD
-16. May 18: TBD
-17. May 23: TBD
-18. May 25: TBD
+* [Class syllabus, lectures, etc.](classes/README.md)
+* [Assignments](assignments/README.md)
+
 

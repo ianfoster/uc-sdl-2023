@@ -11,7 +11,7 @@ The self-driving lab aspect of the demo comes into play when the system autonomo
 color mixing to achieve a desired color output based on feedback from the color sensor: 
 see the following figure from [light-mixing SDL-Demo](https://github.com/sparks-baird/self-driving-lab-demo):
 
-![Image](images/lightdemo.png)
+![Image](../images/lightdemo.png)
 
 In this first assignment, you will run experiments on the color-mixing SDL-Demo hardware located at the University of Utah.
 [This Jupyter notebook]https://github.com/sparks-baird/self-driving-lab-demo/blob/main/notebooks/4.2-paho-mqtt-colab-sdl-demo-test.ipynb) shows how this is done, and also provides implementations of grid search, random search, and Bayesian optimization for a color mixing task.

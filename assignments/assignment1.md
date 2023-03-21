@@ -18,5 +18,7 @@ In this first assignment, you will run experiments on the color-mixing SDL-Demo 
 
 ### Your task
 
-* Run this experiment 10 times and report on what you learn. 
-    How much does the performance of the the different methods vary according to target color and random seed?
+* Run this experiment several times and report on what you learn. 
+  How much does the performance of the the different methods vary according to target color and random seed?
+* Share results via 
+* Due by Monday March 27, 9pm 
